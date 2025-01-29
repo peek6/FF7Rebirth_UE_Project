@@ -1,0 +1,4 @@
+[submodule "Content/Python"]
+	path = Content/Python
+	url = https://github.com/peek6/Json2DA
+	branch = ff7rebirth_UE426
